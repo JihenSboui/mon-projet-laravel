@@ -196,9 +196,9 @@
                 <label for="filiere" class="color25">Plant</label>
                 <select id="filiere" name="filiere" required>
                     <option value="">Sélectionnez votre Plant</option>
-                    <option value="enclicitage+bandage">VOLKSWAGEN</option>
-                    <option value="vkf">BMW</option>
-                    <option value="bandage">AUDI</option>
+                    <option value="VOLKSWAGEN">VOLKSWAGEN</option>
+                    <option value="BMW">BMW</option>
+                    <option value="AUDI">AUDI</option>
                 </select>
 
                 <button type="submit" name="language" value="fr">Français</button>
